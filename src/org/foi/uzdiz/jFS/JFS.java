@@ -16,7 +16,7 @@ import java.io.InputStreamReader;
  *
  * @author ipusic
  */
-public class Ivpusic_zadaca_1 {
+public class JFS {
 
     public static String VFS_TYPE;
     public static CLIParser parser;
