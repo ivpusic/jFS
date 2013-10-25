@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1.VFSFactory;
+package org.foi.uzdiz.jFS.VFSFactory;
 
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS;
+import org.foi.uzdiz.jFS.VFSTypes.VFS;
 
 /**
  *

@@ -5,7 +5,7 @@ File system simulator with basic UNIX commands
 
 ####How to run?
 
-First you need set env variable FS_TYPE, with FAT or EXT4 value.
+First you need set env variable FS_TYPE to FAT or EXT4 value.
 
 Example:
 

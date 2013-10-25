@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.foi.uzdiz.ivpusic_zadaca_1.VFSNodes;
+package org.foi.uzdiz.jFS.VFSNodes;
 
 import java.io.File;
 

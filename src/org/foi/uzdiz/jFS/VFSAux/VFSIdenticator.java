@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1.VFSAux;
+package org.foi.uzdiz.jFS.VFSAux;
 
 /**
  *

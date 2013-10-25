@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1.VFSNodes;
+package org.foi.uzdiz.jFS.VFSNodes;
 
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSAux.VFSIdenticator;
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSAux.VFSIdenticator.VFSLSType;
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS;
+import org.foi.uzdiz.jFS.VFSAux.VFSIdenticator;
+import org.foi.uzdiz.jFS.VFSAux.VFSIdenticator.VFSLSType;
+import org.foi.uzdiz.jFS.VFSTypes.VFS;
 import java.io.File;
 import java.io.FileFilter;
 import java.io.FileNotFoundException;
@@ -17,8 +17,8 @@ import java.util.ArrayList;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.io.FileUtils;
-import static org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS.hasBrokenFiles;
-import static org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS.maxFileNameLength;
+import static org.foi.uzdiz.jFS.VFSTypes.VFS.hasBrokenFiles;
+import static org.foi.uzdiz.jFS.VFSTypes.VFS.maxFileNameLength;
 
 /**
  *

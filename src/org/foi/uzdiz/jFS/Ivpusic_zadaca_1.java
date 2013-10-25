@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1;
+package org.foi.uzdiz.jFS;
 
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSFactory.VFSFactory;
-import org.foi.uzdiz.ivpusic_zadaca_1.Parsers.CLIParser;
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS;
+import org.foi.uzdiz.jFS.VFSFactory.VFSFactory;
+import org.foi.uzdiz.jFS.Parsers.CLIParser;
+import org.foi.uzdiz.jFS.VFSTypes.VFS;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

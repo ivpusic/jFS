@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1.Parsers;
+package org.foi.uzdiz.jFS.Parsers;
 
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes.VFS;
+import org.foi.uzdiz.jFS.VFSTypes.VFS;
 import java.io.IOException;
 
 /**

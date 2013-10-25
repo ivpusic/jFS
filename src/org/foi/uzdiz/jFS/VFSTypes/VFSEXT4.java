@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.foi.uzdiz.ivpusic_zadaca_1.VFSTypes;
+package org.foi.uzdiz.jFS.VFSTypes;
 
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSNodes.VFSDirectory;
-import org.foi.uzdiz.ivpusic_zadaca_1.VFSNodes.VFSNode;
+import org.foi.uzdiz.jFS.VFSNodes.VFSDirectory;
+import org.foi.uzdiz.jFS.VFSNodes.VFSNode;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
