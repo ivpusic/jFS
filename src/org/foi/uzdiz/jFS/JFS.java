@@ -71,7 +71,7 @@ public class JFS {
                 case "":
                     break;
                 default:
-                    System.err.println("Nepostojeca komanda! Upisite 'help' za pomoc!");
+                    System.err.println("Unknown command. Type help for help!");
                     break;
             }
         }
@@ -98,7 +98,7 @@ public class JFS {
             showHelp();
             vfsLoop(vfs);
         } else {
-            System.err.println("You must provide DS_TIP env variable, with either FAT or EXT4 value! Example on Linux -> export DS_TIP=EXT4");
+            System.err.println("You must provide FS_TYPE env variable, with either FAT or EXT4 value! Example on Linux -> export FS_TYPE=EXT4");
             System.exit(0);
         }
     }
